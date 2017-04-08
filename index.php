@@ -15,6 +15,7 @@
 get_header(); ?>
 
 	<div id="primary" class="content-area">
+            <div class="webhook-test" style="display:none">Webhook Works</div>
 		<main id="main" class="site-main" role="main">
 
 		<?php
